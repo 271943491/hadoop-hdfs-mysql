@@ -3,6 +3,7 @@
 
 
 nginx日志内容 access_20160913.log
+
 122.190.88.148 - - [12/Sep/2016:00:01:09 +0800] "POST /Hxkq/Report HTTP/1.1" 200 31 "-" "HXClockIn/1.0.13 (iPhone; iOS 9.3.5; Scale/3.00)" - 119.97.211.26:8887
 
 192.168.13.44 - - [12/Sep/2016:00:01:15 +0800] "GET /Pc/index/getmyauditcount/type/1?_=1473575769487 HTTP/1.1" 200 381
